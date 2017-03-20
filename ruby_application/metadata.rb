@@ -1,0 +1,11 @@
+name             'ruby_application'
+maintainer       'Wilbert Ribeiro'
+maintainer_email 'wkelyson@gmail.com'
+description      'Generic Ruby recipes'
+long_description 'Generic Ruby recipes'
+version          '0.1.1'
+
+depends          'apt'
+depends          'build-essential'
+depends          'nginx'
+depends          'swap'
